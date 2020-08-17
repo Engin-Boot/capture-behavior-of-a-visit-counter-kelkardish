@@ -1,7 +1,7 @@
 # Visit-counter technical needs
 
-The following scenarios works with an assumption that the sensors are
-equipped with some form of small local memory.
+The following scenarios works with an assumption that small local memory
+accompanies the sensor.
 
 The visit-counter and server are not dependent on each other for full
 functioning of either.
